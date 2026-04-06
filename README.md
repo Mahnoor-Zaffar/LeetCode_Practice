@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
