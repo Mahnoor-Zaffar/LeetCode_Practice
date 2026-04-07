@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -28,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
