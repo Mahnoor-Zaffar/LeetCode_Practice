@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
