@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0069-sqrtx/) | Easy |
+| [0415-add-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
+| [0415-add-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0415-add-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
+| [0415-add-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0415-add-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
