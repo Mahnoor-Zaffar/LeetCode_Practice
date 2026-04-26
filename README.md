@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
