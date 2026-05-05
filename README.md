@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
