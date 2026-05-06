@@ -110,17 +110,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
