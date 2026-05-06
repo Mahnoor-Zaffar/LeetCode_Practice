@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 ## Hash Table
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0070-climbing-stairs/) | Easy |
