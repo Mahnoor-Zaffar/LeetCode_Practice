@@ -6,17 +6,9 @@ var createCounter = function(init) {
     let currentValue = init
 
     return {
-        increment:function(){
-            return currentValue += 1
-        },
-
-        decrement:function(){
-            return currentValue -= 1
-        },
-
-        reset:function(){
-            return currentValue = init
-        }
+        increment: () => currentValue += 1,
+        decrement: () => currentValue -= 1,
+        reset: () => currentValue = init
     }
 
 };
