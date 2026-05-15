@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Tree
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -136,5 +139,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
