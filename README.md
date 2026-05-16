@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
