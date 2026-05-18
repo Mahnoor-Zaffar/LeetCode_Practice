@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,10 +121,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Tree
@@ -172,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
