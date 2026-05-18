@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0415-add-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0415-add-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0796-rotate-string/) | Easy |
 ## Trie
