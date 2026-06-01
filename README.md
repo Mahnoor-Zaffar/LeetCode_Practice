@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
