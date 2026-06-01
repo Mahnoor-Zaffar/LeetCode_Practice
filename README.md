@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0195-tenth-line/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mahnoor-Zaffar/LeetCode_Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
