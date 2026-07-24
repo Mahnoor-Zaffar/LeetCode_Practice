@@ -1,9 +1,9 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash_map = {}  # val : index
-        
-        for i, n in enumerate(nums):
-            diff = target - n
-            if diff in hash_map:
-                return [hash_map[diff], i]
-            hash_map[n] = i
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in seen:
+                return [seen[complement], i]
+            seen[num] = i
+        return []
